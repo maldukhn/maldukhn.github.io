@@ -1,0 +1,23 @@
+<package>
+	<id>com.4nni3.where</id>
+	<name>Where</name>
+	<version>1.5-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>تغيير الموقع الجغرافي..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>نسخة بديلة</change>
+	</changelog>
+	<links></links>
+</package>
