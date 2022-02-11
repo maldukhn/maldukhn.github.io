@@ -1,0 +1,49 @@
+
+Package: com.4nni3.where
+Section: Tweaks
+Installed-Size: 500
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.5-1
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Description: Fake your location.
+Name: Where
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: https://maldukhn.github.io/depictions/?p=com.4nni3.where
+
+Package: jp.akusio.backgrounderaction13
+Name: BackgrounderAction2 for CCSupport
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Maintainer: akusio <akusio-report@neko2.net>
+Author: akusio <akusio-report@neko2.net>
+Section: Tweaks
+Version: 0.1.4
+Installed-Size: 244
+
+Package: kr.xsf1re.flyjbx
+Name: FlyJB X
+Version: 1.2.5
+Architecture: iphoneos-arm
+Description: You can HIDE Doing jailbreak your iDevice.
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb (<<1.2.5)
+Depiction: https://maldukhn.github.io/depictions/?p=kr.xsf1re.flyjbx
+
+Package: me.nepeta.relocatereborn
+Name: Relocate Reborn
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
+Conflicts: me.nepeta.relocate
+Architecture: iphoneos-arm
+Description: Minimalist GPS spoofer (free, iOS 13+)
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 492
+Depiction: https://maldukhn.github.io/depictions/?p=me.nepeta.relocatereborn
