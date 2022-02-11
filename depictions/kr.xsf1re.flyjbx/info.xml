@@ -1,0 +1,23 @@
+<package>
+	<id>kr.xsf1re.flyjbx</id>
+	<name>FlyJBx</name>
+	<version>1.2.5</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>اخفاء الجيلبريك.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>نسخة احتياطية</change>
+	</changelog>
+	<links></links>
+</package>
