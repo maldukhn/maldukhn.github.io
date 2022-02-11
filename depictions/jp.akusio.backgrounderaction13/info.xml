@@ -1,0 +1,23 @@
+<package>
+	<id>jp.akusio.backgrounderaction13</id>
+	<name>BackgrounderAction2 for CCSupport</name>
+	<version>0.1.4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>تشغيل الاصوات في الخلفية.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>نسخة احتياطية</change>
+	</changelog>
+	<links></links>
+</package>
